@@ -1,5 +1,5 @@
 /*console.log('a =', a)
-var a = 2
+var a = 2   //Ocorreu o hoisting
 console.log('a =', a)
 */
 
